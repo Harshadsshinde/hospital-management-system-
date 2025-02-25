@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9",
+    "vite": "^0.10.3"
+  }
+}
